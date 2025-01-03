@@ -11,18 +11,16 @@ Here, you’ll find:
 Each project reflects my journey as a data and marketing analyst, blending technical expertise with a knack for storytelling.
 
 ### 🏆 Featured Projects
-#### 📈 Stock Market Analysis
-- Objective: An exploration of stock trends over five years.
-- Tools: Python, Tableau | Deliverable: Interactive dashboards.
-#### 🛒 Sales Insights Dashboard
-- Objective: Analyzing consumer behavior to optimize sales strategies.
-- Tools: SQL, Tableau | Outcome: Actionable business intelligence.
-### 👥 Customer Segmentation for Marketing Analytics
+#### 👥 [Customer Segmentation for Marketing Analytics](https://github.com/nikitha108/Project_marketing)
 - Objective: Grouping customers based on behavior to enhance personalized marketing strategies.
 - Skills & Tools: Python (K-means clustering), Tableau | Highlights: Improved targeting and ROI.
-### 🌍 Data Analyst Job Trends in France
+#### 🌍 [Data Analyst Job Trends in France](https://github.com/nikitha108/Project_Data)
 - Objective: Analyze hiring trends for data analyst roles in France using job market data.
 - Skills & Tools: Python (Web scraping, Pandas), Power BI | Insights: Key skills in demand, salary trends, and industry focus.
+#### 🛒 [Sales Insights Dashboard](https://github.com/nikitha108/Sales_Consumer_Dashboard?tab=readme-ov-file)
+- Objective: Analyzing consumer behavior to optimize sales strategies.
+- Tools: Tableau | Outcome: Actionable business intelligence.
+
 ### 🛠 Skills at a Glance
 - Data Analytics: SQL, Python, Statistics
 - Visualization: Tableau, Power BI, Seaborn
