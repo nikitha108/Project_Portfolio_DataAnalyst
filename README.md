@@ -25,7 +25,7 @@ Each project reflects my journey as a data and marketing analyst, blending techn
 - Objective: Analyzing consumer behavior to optimize sales strategies.
 - Tools: Tableau | Outcome: Actionable business intelligence.
 
-![ ](<Sales Dashboard.png>) *Overview of the Sales Dashboard*
+![](<Sales Dashboard.png>) *Overview of the Sales Dashboard*
 
 ### 🛠 Skills at a Glance
 - Data Analytics: **SQL**(MySQL, SQLite, Postgresql), **Python** (Pandas, NumPy, SciPy, Matplotlib)
